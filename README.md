@@ -8,4 +8,4 @@
 
 - 📧 **Email**: [jeff.pino.b@gmail.com](mailto:jeff.pino.b@gmail.com)
 
-- :yt: **Youtube**: [Delta Sistemas](https://www.youtube.com/channel/UCG-RR9SfEUvQTOi7K85Bk5g)
+- 📺 **Youtube**: [Delta Sistemas](https://www.youtube.com/channel/UCG-RR9SfEUvQTOi7K85Bk5g)
