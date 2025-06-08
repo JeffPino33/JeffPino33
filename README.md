@@ -1,11 +1,9 @@
 ## Hi there 👋
 
-:computer: Analista GeneXus Senior
+:computer: Nos dedicamos al desarrollo de software a la medida, para brindar soluciones informáticas
 
 ### Vias de contacto
 
-- 💼 **LinkedIn**: [Jefferson Pino](https://www.linkedin.com/in/jefferson-pino-genexus-senior/)
-
-- 📧 **Email**: [jeff.pino.b@gmail.com](mailto:jeff.pino.b@gmail.com)
+- 📧 **Email**: [delta.sistemas.ec@gmail.com](mailto:delta.sistemas.ec@gmail.com)
 
 - 📺 **Youtube**: [Delta Sistemas](https://www.youtube.com/channel/UCG-RR9SfEUvQTOi7K85Bk5g)
